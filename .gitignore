@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Emacs backup files.
+~*
+*#
+.#*
+
+# Executables.
+hello_world
